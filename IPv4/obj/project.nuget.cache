@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SEBPzuF5NG2B0Kp+PZ6+JLHzQ/LygV0U6yBJQU79ZLy/9yAKwl5ZQzY8qIDlffJTY7qa1oWJcBbA48dkAt++GQ==",
+  "success": true,
+  "projectFilePath": "/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/IPv4.csproj",
+  "expectedPackageFiles": [
+    "/home/cachyos/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/obj/Debug/net8.0/IPv4.GeneratedMSBuildEditorConfig.editorconfig
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/obj/Debug/net8.0/IPv4.AssemblyInfoInputs.cache
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/obj/Debug/net8.0/IPv4.AssemblyInfo.cs
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/obj/Debug/net8.0/IPv4.csproj.CoreCompileInputs.cache
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/bin/Debug/net8.0/IPv4
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/bin/Debug/net8.0/IPv4.deps.json
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/bin/Debug/net8.0/IPv4.runtimeconfig.json
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/bin/Debug/net8.0/IPv4.dll
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/bin/Debug/net8.0/IPv4.pdb
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/obj/Debug/net8.0/IPv4.dll
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/obj/Debug/net8.0/refint/IPv4.dll
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/obj/Debug/net8.0/IPv4.pdb
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/obj/Debug/net8.0/IPv4.genruntimeconfig.cache
+/home/cachyos/Desktop/Programming/University/NesneOnline/Homework01/IPv4/obj/Debug/net8.0/ref/IPv4.dll
